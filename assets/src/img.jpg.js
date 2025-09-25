@@ -1,1 +1,1 @@
-'https://budski82.github.io/assets-distro/img.jpg'
+'https://budski82.github.io/assets-distro/img.JPG'
